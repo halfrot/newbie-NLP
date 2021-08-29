@@ -1,0 +1,2101 @@
+epoch start
+epoch : 0  loss : 0.000083  valid_F1 : 0.019237
+time cost : 44.673125
+epoch start
+epoch : 1  loss : 0.000081  valid_F1 : 0.037182
+time cost : 44.896306
+epoch start
+epoch : 2  loss : 0.000079  valid_F1 : 0.048263
+time cost : 44.385406
+epoch start
+epoch : 3  loss : 0.000077  valid_F1 : 0.074074
+time cost : 45.075674
+epoch start
+epoch : 4  loss : 0.000076  valid_F1 : 0.083877
+time cost : 45.016613
+epoch start
+epoch : 5  loss : 0.000075  valid_F1 : 0.097367
+time cost : 45.014441
+epoch start
+epoch : 6  loss : 0.000074  valid_F1 : 0.104976
+time cost : 44.497174
+epoch start
+epoch : 7  loss : 0.000073  valid_F1 : 0.120072
+time cost : 44.822073
+epoch start
+epoch : 8  loss : 0.000072  valid_F1 : 0.127735
+time cost : 44.913424
+epoch start
+epoch : 9  loss : 0.000071  valid_F1 : 0.137083
+time cost : 45.060158
+epoch start
+epoch : 10  loss : 0.000071  valid_F1 : 0.144641
+time cost : 45.049023
+epoch start
+epoch : 11  loss : 0.000070  valid_F1 : 0.151716
+time cost : 44.451037
+epoch start
+epoch : 12  loss : 0.000069  valid_F1 : 0.158467
+time cost : 45.903679
+epoch start
+epoch : 13  loss : 0.000069  valid_F1 : 0.163925
+time cost : 44.944235
+epoch start
+epoch : 14  loss : 0.000068  valid_F1 : 0.172694
+time cost : 44.967185
+epoch start
+epoch : 15  loss : 0.000068  valid_F1 : 0.182121
+time cost : 45.142983
+epoch start
+epoch : 16  loss : 0.000068  valid_F1 : 0.212154
+time cost : 44.940145
+epoch start
+epoch : 17  loss : 0.000067  valid_F1 : 0.218456
+time cost : 44.816360
+epoch start
+epoch : 18  loss : 0.000067  valid_F1 : 0.223586
+time cost : 44.994544
+epoch start
+epoch : 19  loss : 0.000067  valid_F1 : 0.229404
+time cost : 44.937135
+epoch start
+epoch : 20  loss : 0.000066  valid_F1 : 0.233623
+time cost : 45.076089
+epoch start
+epoch : 21  loss : 0.000066  valid_F1 : 0.235940
+time cost : 45.175072
+epoch start
+epoch : 22  loss : 0.000066  valid_F1 : 0.237341
+time cost : 45.007197
+epoch start
+epoch : 23  loss : 0.000065  valid_F1 : 0.239546
+time cost : 44.927076
+epoch start
+epoch : 24  loss : 0.000065  valid_F1 : 0.244877
+time cost : 45.187034
+epoch start
+epoch : 25  loss : 0.000065  valid_F1 : 0.249682
+time cost : 44.912216
+epoch start
+epoch : 26  loss : 0.000065  valid_F1 : 0.252669
+time cost : 44.989574
+epoch start
+epoch : 27  loss : 0.000065  valid_F1 : 0.254942
+time cost : 44.981580
+epoch start
+epoch : 28  loss : 0.000064  valid_F1 : 0.255814
+time cost : 44.975907
+epoch start
+epoch : 29  loss : 0.000064  valid_F1 : 0.259381
+time cost : 44.983293
+epoch start
+epoch : 30  loss : 0.000064  valid_F1 : 0.263290
+time cost : 45.093910
+epoch start
+epoch : 31  loss : 0.000064  valid_F1 : 0.262908
+time cost : 44.812553
+epoch start
+epoch : 32  loss : 0.000064  valid_F1 : 0.265078
+time cost : 44.898594
+epoch start
+epoch : 33  loss : 0.000064  valid_F1 : 0.266864
+time cost : 45.081824
+epoch start
+epoch : 34  loss : 0.000063  valid_F1 : 0.268377
+time cost : 45.011300
+epoch start
+epoch : 35  loss : 0.000063  valid_F1 : 0.271278
+time cost : 44.943148
+epoch start
+epoch : 36  loss : 0.000063  valid_F1 : 0.272082
+time cost : 45.061303
+epoch start
+epoch : 37  loss : 0.000063  valid_F1 : 0.273016
+time cost : 44.942954
+epoch start
+epoch : 38  loss : 0.000063  valid_F1 : 0.274854
+time cost : 44.928739
+epoch start
+epoch : 39  loss : 0.000063  valid_F1 : 0.277670
+time cost : 45.076858
+epoch start
+epoch : 40  loss : 0.000063  valid_F1 : 0.281220
+time cost : 44.980169
+epoch start
+epoch : 41  loss : 0.000063  valid_F1 : 0.281785
+time cost : 44.961307
+epoch start
+epoch : 42  loss : 0.000063  valid_F1 : 0.281514
+time cost : 45.049667
+epoch start
+epoch : 43  loss : 0.000062  valid_F1 : 0.282002
+time cost : 44.804028
+epoch start
+epoch : 44  loss : 0.000062  valid_F1 : 0.283241
+time cost : 44.955699
+epoch start
+epoch : 45  loss : 0.000062  valid_F1 : 0.284824
+time cost : 45.074681
+epoch start
+epoch : 46  loss : 0.000062  valid_F1 : 0.285919
+time cost : 44.927979
+epoch start
+epoch : 47  loss : 0.000062  valid_F1 : 0.286874
+time cost : 45.028372
+epoch start
+epoch : 48  loss : 0.000062  valid_F1 : 0.288232
+time cost : 44.867499
+epoch start
+epoch : 49  loss : 0.000062  valid_F1 : 0.289442
+time cost : 44.873871
+epoch start
+epoch : 50  loss : 0.000062  valid_F1 : 0.291055
+time cost : 44.890472
+epoch start
+epoch : 51  loss : 0.000062  valid_F1 : 0.295144
+time cost : 44.986040
+epoch start
+epoch : 52  loss : 0.000062  valid_F1 : 0.297602
+time cost : 44.991940
+epoch start
+epoch : 53  loss : 0.000062  valid_F1 : 0.297982
+time cost : 44.885340
+epoch start
+epoch : 54  loss : 0.000062  valid_F1 : 0.299906
+time cost : 45.010948
+epoch start
+epoch : 55  loss : 0.000062  valid_F1 : 0.300421
+time cost : 44.875350
+epoch start
+epoch : 56  loss : 0.000061  valid_F1 : 0.300678
+time cost : 44.973311
+epoch start
+epoch : 57  loss : 0.000061  valid_F1 : 0.300467
+time cost : 45.062294
+epoch start
+epoch : 58  loss : 0.000061  valid_F1 : 0.300910
+time cost : 44.814547
+epoch start
+epoch : 59  loss : 0.000061  valid_F1 : 0.301491
+time cost : 44.870620
+epoch start
+epoch : 60  loss : 0.000061  valid_F1 : 0.301140
+time cost : 45.048480
+epoch start
+epoch : 61  loss : 0.000061  valid_F1 : 0.301185
+time cost : 44.962976
+epoch start
+epoch : 62  loss : 0.000061  valid_F1 : 0.300302
+time cost : 45.016029
+epoch start
+epoch : 63  loss : 0.000061  valid_F1 : 0.301135
+time cost : 45.056975
+epoch start
+epoch : 64  loss : 0.000061  valid_F1 : 0.302245
+time cost : 44.982722
+epoch start
+epoch : 65  loss : 0.000061  valid_F1 : 0.301965
+time cost : 45.064108
+epoch start
+epoch : 66  loss : 0.000061  valid_F1 : 0.304639
+time cost : 45.223997
+epoch start
+epoch : 67  loss : 0.000061  valid_F1 : 0.305280
+time cost : 44.935101
+epoch start
+epoch : 68  loss : 0.000061  valid_F1 : 0.306949
+time cost : 44.796170
+epoch start
+epoch : 69  loss : 0.000061  valid_F1 : 0.307763
+time cost : 45.035504
+epoch start
+epoch : 70  loss : 0.000061  valid_F1 : 0.308328
+time cost : 44.916625
+epoch start
+epoch : 71  loss : 0.000061  valid_F1 : 0.309666
+time cost : 45.013937
+epoch start
+epoch : 72  loss : 0.000061  valid_F1 : 0.309595
+time cost : 44.895552
+epoch start
+epoch : 73  loss : 0.000061  valid_F1 : 0.309698
+time cost : 44.893126
+epoch start
+epoch : 74  loss : 0.000061  valid_F1 : 0.310400
+time cost : 44.894599
+epoch start
+epoch : 75  loss : 0.000061  valid_F1 : 0.310644
+time cost : 45.022081
+epoch start
+epoch : 76  loss : 0.000060  valid_F1 : 0.310502
+time cost : 45.005438
+epoch start
+epoch : 77  loss : 0.000060  valid_F1 : 0.309448
+time cost : 44.883973
+epoch start
+epoch : 78  loss : 0.000060  valid_F1 : 0.311162
+time cost : 44.985251
+epoch start
+epoch : 79  loss : 0.000060  valid_F1 : 0.311020
+time cost : 44.907028
+epoch start
+epoch : 80  loss : 0.000060  valid_F1 : 0.311334
+time cost : 44.924138
+epoch start
+epoch : 81  loss : 0.000060  valid_F1 : 0.312031
+time cost : 44.938785
+epoch start
+epoch : 82  loss : 0.000060  valid_F1 : 0.311535
+time cost : 44.858895
+epoch start
+epoch : 83  loss : 0.000060  valid_F1 : 0.311565
+time cost : 44.979921
+epoch start
+epoch : 84  loss : 0.000060  valid_F1 : 0.312712
+time cost : 45.044049
+epoch start
+epoch : 85  loss : 0.000060  valid_F1 : 0.312882
+time cost : 45.083390
+epoch start
+epoch : 86  loss : 0.000060  valid_F1 : 0.313885
+time cost : 45.082900
+epoch start
+epoch : 87  loss : 0.000060  valid_F1 : 0.314576
+time cost : 44.960834
+epoch start
+epoch : 88  loss : 0.000060  valid_F1 : 0.314221
+time cost : 44.914378
+epoch start
+epoch : 89  loss : 0.000060  valid_F1 : 0.314079
+time cost : 44.992664
+epoch start
+epoch : 90  loss : 0.000060  valid_F1 : 0.314318
+time cost : 45.081958
+epoch start
+epoch : 91  loss : 0.000060  valid_F1 : 0.314318
+time cost : 44.832392
+epoch start
+epoch : 92  loss : 0.000060  valid_F1 : 0.314556
+time cost : 44.846056
+epoch start
+epoch : 93  loss : 0.000060  valid_F1 : 0.314414
+time cost : 45.067850
+epoch start
+epoch : 94  loss : 0.000060  valid_F1 : 0.314273
+time cost : 44.902599
+epoch start
+epoch : 95  loss : 0.000060  valid_F1 : 0.314961
+time cost : 44.975061
+epoch start
+epoch : 96  loss : 0.000060  valid_F1 : 0.315198
+time cost : 45.053315
+epoch start
+epoch : 97  loss : 0.000060  valid_F1 : 0.315577
+time cost : 44.939543
+epoch start
+epoch : 98  loss : 0.000060  valid_F1 : 0.315955
+time cost : 44.783391
+epoch start
+epoch : 99  loss : 0.000060  valid_F1 : 0.315671
+time cost : 45.006518
+epoch start
+epoch : 100  loss : 0.000060  valid_F1 : 0.316356
+time cost : 45.055764
+epoch start
+epoch : 101  loss : 0.000060  valid_F1 : 0.317275
+time cost : 45.024233
+epoch start
+epoch : 102  loss : 0.000060  valid_F1 : 0.317816
+time cost : 45.137913
+epoch start
+epoch : 103  loss : 0.000060  valid_F1 : 0.317744
+time cost : 44.894380
+epoch start
+epoch : 104  loss : 0.000060  valid_F1 : 0.318517
+time cost : 44.908613
+epoch start
+epoch : 105  loss : 0.000060  valid_F1 : 0.318446
+time cost : 45.023740
+epoch start
+epoch : 106  loss : 0.000060  valid_F1 : 0.319946
+time cost : 44.961289
+epoch start
+epoch : 107  loss : 0.000060  valid_F1 : 0.319875
+time cost : 45.000124
+epoch start
+epoch : 108  loss : 0.000060  valid_F1 : 0.320339
+time cost : 45.095019
+epoch start
+epoch : 109  loss : 0.000060  valid_F1 : 0.320267
+time cost : 44.898532
+epoch start
+epoch : 110  loss : 0.000060  valid_F1 : 0.320801
+time cost : 44.920501
+epoch start
+epoch : 111  loss : 0.000060  valid_F1 : 0.321032
+time cost : 45.255244
+epoch start
+epoch : 112  loss : 0.000060  valid_F1 : 0.320675
+time cost : 45.095139
+epoch start
+epoch : 113  loss : 0.000060  valid_F1 : 0.321421
+time cost : 45.118098
+epoch start
+epoch : 114  loss : 0.000059  valid_F1 : 0.322380
+time cost : 44.866636
+epoch start
+epoch : 115  loss : 0.000059  valid_F1 : 0.322380
+time cost : 44.881813
+epoch start
+epoch : 116  loss : 0.000059  valid_F1 : 0.322323
+time cost : 44.935502
+epoch start
+epoch : 117  loss : 0.000059  valid_F1 : 0.322266
+time cost : 45.092666
+epoch start
+epoch : 118  loss : 0.000059  valid_F1 : 0.321824
+time cost : 45.035846
+epoch start
+epoch : 119  loss : 0.000059  valid_F1 : 0.321753
+time cost : 44.882345
+epoch start
+epoch : 120  loss : 0.000059  valid_F1 : 0.321910
+time cost : 45.077556
+epoch start
+epoch : 121  loss : 0.000059  valid_F1 : 0.322581
+time cost : 44.851554
+epoch start
+epoch : 122  loss : 0.000059  valid_F1 : 0.322809
+time cost : 45.000504
+epoch start
+epoch : 123  loss : 0.000059  valid_F1 : 0.323549
+time cost : 45.142724
+epoch start
+epoch : 124  loss : 0.000059  valid_F1 : 0.323477
+time cost : 44.874754
+epoch start
+epoch : 125  loss : 0.000059  valid_F1 : 0.323477
+time cost : 44.908468
+epoch start
+epoch : 126  loss : 0.000059  valid_F1 : 0.324146
+time cost : 45.071920
+epoch start
+epoch : 127  loss : 0.000059  valid_F1 : 0.324003
+time cost : 44.964594
+epoch start
+epoch : 128  loss : 0.000059  valid_F1 : 0.324741
+time cost : 44.997189
+epoch start
+epoch : 129  loss : 0.000059  valid_F1 : 0.324967
+time cost : 45.111574
+epoch start
+epoch : 130  loss : 0.000059  valid_F1 : 0.324967
+time cost : 44.798683
+epoch start
+epoch : 131  loss : 0.000059  valid_F1 : 0.324967
+time cost : 44.899429
+epoch start
+epoch : 132  loss : 0.000059  valid_F1 : 0.324895
+time cost : 45.038461
+epoch start
+epoch : 133  loss : 0.000059  valid_F1 : 0.325121
+time cost : 44.959574
+epoch start
+epoch : 134  loss : 0.000059  valid_F1 : 0.325346
+time cost : 44.980675
+epoch start
+epoch : 135  loss : 0.000059  valid_F1 : 0.325275
+time cost : 44.924609
+epoch start
+epoch : 136  loss : 0.000059  valid_F1 : 0.325346
+time cost : 44.895989
+epoch start
+epoch : 137  loss : 0.000059  valid_F1 : 0.325346
+time cost : 44.906588
+epoch start
+epoch : 138  loss : 0.000059  valid_F1 : 0.325203
+time cost : 45.131671
+epoch start
+epoch : 139  loss : 0.000059  valid_F1 : 0.325428
+time cost : 44.994302
+epoch start
+epoch : 140  loss : 0.000059  valid_F1 : 0.326459
+time cost : 44.889512
+epoch start
+epoch : 141  loss : 0.000059  valid_F1 : 0.327265
+time cost : 44.990256
+epoch start
+epoch : 142  loss : 0.000059  valid_F1 : 0.327193
+time cost : 44.846383
+epoch start
+epoch : 143  loss : 0.000059  valid_F1 : 0.327050
+time cost : 44.954594
+epoch start
+epoch : 144  loss : 0.000059  valid_F1 : 0.326978
+time cost : 45.095753
+epoch start
+epoch : 145  loss : 0.000059  valid_F1 : 0.327344
+time cost : 44.894699
+epoch start
+epoch : 146  loss : 0.000059  valid_F1 : 0.327496
+time cost : 44.815728
+epoch start
+epoch : 147  loss : 0.000059  valid_F1 : 0.327496
+time cost : 45.040444
+epoch start
+epoch : 148  loss : 0.000059  valid_F1 : 0.327718
+time cost : 44.912982
+epoch start
+epoch : 149  loss : 0.000059  valid_F1 : 0.327790
+time cost : 45.011781
+epoch start
+epoch : 150  loss : 0.000059  valid_F1 : 0.328515
+time cost : 44.945633
+epoch start
+epoch : 151  loss : 0.000059  valid_F1 : 0.328809
+time cost : 44.895196
+epoch start
+epoch : 152  loss : 0.000059  valid_F1 : 0.328815
+time cost : 45.005481
+epoch start
+epoch : 153  loss : 0.000059  valid_F1 : 0.328959
+time cost : 45.204058
+epoch start
+epoch : 154  loss : 0.000059  valid_F1 : 0.328887
+time cost : 45.112528
+epoch start
+epoch : 155  loss : 0.000059  valid_F1 : 0.329180
+time cost : 45.030925
+epoch start
+epoch : 156  loss : 0.000059  valid_F1 : 0.329617
+time cost : 45.041863
+epoch start
+epoch : 157  loss : 0.000059  valid_F1 : 0.329983
+time cost : 44.840691
+epoch start
+epoch : 158  loss : 0.000059  valid_F1 : 0.330420
+time cost : 45.000947
+epoch start
+epoch : 159  loss : 0.000059  valid_F1 : 0.330712
+time cost : 45.116046
+epoch start
+epoch : 160  loss : 0.000059  valid_F1 : 0.330784
+time cost : 44.988077
+epoch start
+epoch : 161  loss : 0.000059  valid_F1 : 0.330860
+time cost : 45.005040
+epoch start
+epoch : 162  loss : 0.000059  valid_F1 : 0.331224
+time cost : 44.981799
+epoch start
+epoch : 163  loss : 0.000059  valid_F1 : 0.331516
+time cost : 44.871692
+epoch start
+epoch : 164  loss : 0.000059  valid_F1 : 0.332171
+time cost : 44.892712
+epoch start
+epoch : 165  loss : 0.000059  valid_F1 : 0.332317
+time cost : 45.027260
+epoch start
+epoch : 166  loss : 0.000059  valid_F1 : 0.332608
+time cost : 44.952753
+epoch start
+epoch : 167  loss : 0.000059  valid_F1 : 0.332608
+time cost : 44.782970
+epoch start
+epoch : 168  loss : 0.000059  valid_F1 : 0.332245
+time cost : 45.029032
+epoch start
+epoch : 169  loss : 0.000059  valid_F1 : 0.332172
+time cost : 44.931464
+epoch start
+epoch : 170  loss : 0.000059  valid_F1 : 0.332172
+time cost : 44.989148
+epoch start
+epoch : 171  loss : 0.000059  valid_F1 : 0.331521
+time cost : 45.141510
+epoch start
+epoch : 172  loss : 0.000059  valid_F1 : 0.331665
+time cost : 45.004208
+epoch start
+epoch : 173  loss : 0.000059  valid_F1 : 0.331665
+time cost : 44.820451
+epoch start
+epoch : 174  loss : 0.000059  valid_F1 : 0.331593
+time cost : 45.017641
+epoch start
+epoch : 175  loss : 0.000059  valid_F1 : 0.331593
+time cost : 44.879426
+epoch start
+epoch : 176  loss : 0.000059  valid_F1 : 0.331811
+time cost : 44.916408
+epoch start
+epoch : 177  loss : 0.000059  valid_F1 : 0.331667
+time cost : 45.039404
+epoch start
+epoch : 178  loss : 0.000059  valid_F1 : 0.332826
+time cost : 44.933935
+epoch start
+epoch : 179  loss : 0.000059  valid_F1 : 0.332826
+time cost : 44.871365
+epoch start
+epoch : 180  loss : 0.000059  valid_F1 : 0.332899
+time cost : 45.023299
+epoch start
+epoch : 181  loss : 0.000059  valid_F1 : 0.332899
+time cost : 44.952894
+epoch start
+epoch : 182  loss : 0.000059  valid_F1 : 0.333261
+time cost : 44.929387
+epoch start
+epoch : 183  loss : 0.000059  valid_F1 : 0.333696
+time cost : 45.081213
+epoch start
+epoch : 184  loss : 0.000059  valid_F1 : 0.333551
+time cost : 44.816054
+epoch start
+epoch : 185  loss : 0.000059  valid_F1 : 0.333406
+time cost : 44.960962
+epoch start
+epoch : 186  loss : 0.000059  valid_F1 : 0.333406
+time cost : 45.056592
+epoch start
+epoch : 187  loss : 0.000059  valid_F1 : 0.334057
+time cost : 44.912031
+epoch start
+epoch : 188  loss : 0.000059  valid_F1 : 0.334419
+time cost : 44.946919
+epoch start
+epoch : 189  loss : 0.000059  valid_F1 : 0.334419
+time cost : 45.110504
+epoch start
+epoch : 190  loss : 0.000059  valid_F1 : 0.335142
+time cost : 44.979401
+epoch start
+epoch : 191  loss : 0.000059  valid_F1 : 0.335215
+time cost : 44.974373
+epoch start
+epoch : 192  loss : 0.000059  valid_F1 : 0.335865
+time cost : 44.999175
+epoch start
+epoch : 193  loss : 0.000059  valid_F1 : 0.335865
+time cost : 44.912149
+epoch start
+epoch : 194  loss : 0.000059  valid_F1 : 0.335719
+time cost : 44.947558
+epoch start
+epoch : 195  loss : 0.000059  valid_F1 : 0.335789
+time cost : 45.159107
+epoch start
+epoch : 196  loss : 0.000059  valid_F1 : 0.335861
+time cost : 45.088237
+epoch start
+epoch : 197  loss : 0.000059  valid_F1 : 0.335861
+time cost : 44.814990
+epoch start
+epoch : 198  loss : 0.000059  valid_F1 : 0.339181
+time cost : 45.032651
+epoch start
+epoch : 199  loss : 0.000059  valid_F1 : 0.338462
+time cost : 44.973120
+epoch start
+epoch : 200  loss : 0.000059  valid_F1 : 0.337955
+time cost : 45.023441
+epoch start
+epoch : 201  loss : 0.000059  valid_F1 : 0.337882
+time cost : 45.083921
+epoch start
+epoch : 202  loss : 0.000059  valid_F1 : 0.337809
+time cost : 44.913818
+epoch start
+epoch : 203  loss : 0.000059  valid_F1 : 0.337589
+time cost : 44.958061
+epoch start
+epoch : 204  loss : 0.000059  valid_F1 : 0.337443
+time cost : 45.028230
+epoch start
+epoch : 205  loss : 0.000059  valid_F1 : 0.337147
+time cost : 44.965687
+epoch start
+epoch : 206  loss : 0.000059  valid_F1 : 0.337147
+time cost : 44.983797
+epoch start
+epoch : 207  loss : 0.000059  valid_F1 : 0.337074
+time cost : 45.208411
+epoch start
+epoch : 208  loss : 0.000059  valid_F1 : 0.337001
+time cost : 44.987987
+epoch start
+epoch : 209  loss : 0.000059  valid_F1 : 0.337074
+time cost : 45.010540
+epoch start
+epoch : 210  loss : 0.000059  valid_F1 : 0.337360
+time cost : 45.286304
+epoch start
+epoch : 211  loss : 0.000059  valid_F1 : 0.337646
+time cost : 45.186697
+epoch start
+epoch : 212  loss : 0.000059  valid_F1 : 0.337646
+time cost : 44.997998
+epoch start
+epoch : 213  loss : 0.000059  valid_F1 : 0.337500
+time cost : 44.983729
+epoch start
+epoch : 214  loss : 0.000059  valid_F1 : 0.337355
+time cost : 44.971042
+epoch start
+epoch : 215  loss : 0.000059  valid_F1 : 0.337282
+time cost : 45.034570
+epoch start
+epoch : 216  loss : 0.000059  valid_F1 : 0.337567
+time cost : 45.159736
+epoch start
+epoch : 217  loss : 0.000059  valid_F1 : 0.337567
+time cost : 44.942095
+epoch start
+epoch : 218  loss : 0.000059  valid_F1 : 0.337349
+time cost : 45.029482
+epoch start
+epoch : 219  loss : 0.000059  valid_F1 : 0.337277
+time cost : 44.954827
+epoch start
+epoch : 220  loss : 0.000059  valid_F1 : 0.337204
+time cost : 44.890861
+epoch start
+epoch : 221  loss : 0.000059  valid_F1 : 0.337132
+time cost : 44.930200
+epoch start
+epoch : 222  loss : 0.000059  valid_F1 : 0.337344
+time cost : 45.207572
+epoch start
+epoch : 223  loss : 0.000059  valid_F1 : 0.337986
+time cost : 45.020212
+epoch start
+epoch : 224  loss : 0.000059  valid_F1 : 0.337986
+time cost : 44.888422
+epoch start
+epoch : 225  loss : 0.000058  valid_F1 : 0.337986
+time cost : 45.030850
+epoch start
+epoch : 226  loss : 0.000058  valid_F1 : 0.337986
+time cost : 44.995220
+epoch start
+epoch : 227  loss : 0.000058  valid_F1 : 0.337986
+time cost : 44.986448
+epoch start
+epoch : 228  loss : 0.000058  valid_F1 : 0.337986
+time cost : 45.088001
+epoch start
+epoch : 229  loss : 0.000058  valid_F1 : 0.338270
+time cost : 44.766151
+epoch start
+epoch : 230  loss : 0.000058  valid_F1 : 0.338270
+time cost : 44.863977
+epoch start
+epoch : 231  loss : 0.000058  valid_F1 : 0.338197
+time cost : 45.034724
+epoch start
+epoch : 232  loss : 0.000058  valid_F1 : 0.338197
+time cost : 44.920374
+epoch start
+epoch : 233  loss : 0.000058  valid_F1 : 0.338125
+time cost : 45.032341
+epoch start
+epoch : 234  loss : 0.000058  valid_F1 : 0.337768
+time cost : 44.993228
+epoch start
+epoch : 235  loss : 0.000058  valid_F1 : 0.338191
+time cost : 44.907505
+epoch start
+epoch : 236  loss : 0.000058  valid_F1 : 0.338119
+time cost : 44.988730
+epoch start
+epoch : 237  loss : 0.000058  valid_F1 : 0.337901
+time cost : 45.114603
+epoch start
+epoch : 238  loss : 0.000058  valid_F1 : 0.338185
+time cost : 44.959607
+epoch start
+epoch : 239  loss : 0.000058  valid_F1 : 0.340098
+time cost : 44.866817
+epoch start
+epoch : 240  loss : 0.000058  valid_F1 : 0.340098
+time cost : 45.042208
+epoch start
+epoch : 241  loss : 0.000058  valid_F1 : 0.340098
+time cost : 44.922228
+epoch start
+epoch : 242  loss : 0.000058  valid_F1 : 0.339034
+time cost : 44.936711
+epoch start
+epoch : 243  loss : 0.000058  valid_F1 : 0.339034
+time cost : 45.119155
+epoch start
+epoch : 244  loss : 0.000058  valid_F1 : 0.339034
+time cost : 44.819386
+epoch start
+epoch : 245  loss : 0.000058  valid_F1 : 0.338961
+time cost : 44.921576
+epoch start
+epoch : 246  loss : 0.000058  valid_F1 : 0.338889
+time cost : 45.023524
+epoch start
+epoch : 247  loss : 0.000058  valid_F1 : 0.338889
+time cost : 45.044497
+epoch start
+epoch : 248  loss : 0.000058  valid_F1 : 0.338816
+time cost : 45.044347
+epoch start
+epoch : 249  loss : 0.000058  valid_F1 : 0.338816
+time cost : 45.003826
+epoch start
+epoch : 250  loss : 0.000058  valid_F1 : 0.338672
+time cost : 44.985159
+epoch start
+epoch : 251  loss : 0.000058  valid_F1 : 0.338599
+time cost : 45.134669
+epoch start
+epoch : 252  loss : 0.000058  valid_F1 : 0.338455
+time cost : 45.268295
+epoch start
+epoch : 253  loss : 0.000058  valid_F1 : 0.338383
+time cost : 45.183482
+epoch start
+epoch : 254  loss : 0.000058  valid_F1 : 0.338311
+time cost : 44.759738
+epoch start
+epoch : 255  loss : 0.000058  valid_F1 : 0.338311
+time cost : 45.087226
+epoch start
+epoch : 256  loss : 0.000058  valid_F1 : 0.338238
+time cost : 44.962280
+epoch start
+epoch : 257  loss : 0.000058  valid_F1 : 0.338593
+time cost : 44.938284
+epoch start
+epoch : 258  loss : 0.000058  valid_F1 : 0.338593
+time cost : 44.962177
+epoch start
+epoch : 259  loss : 0.000058  valid_F1 : 0.338521
+time cost : 44.871625
+epoch start
+epoch : 260  loss : 0.000058  valid_F1 : 0.338521
+time cost : 44.988466
+epoch start
+epoch : 261  loss : 0.000058  valid_F1 : 0.338521
+time cost : 45.048543
+epoch start
+epoch : 262  loss : 0.000058  valid_F1 : 0.338947
+time cost : 44.922836
+epoch start
+epoch : 263  loss : 0.000058  valid_F1 : 0.338947
+time cost : 44.888942
+epoch start
+epoch : 264  loss : 0.000058  valid_F1 : 0.338802
+time cost : 45.005676
+epoch start
+epoch : 265  loss : 0.000058  valid_F1 : 0.338802
+time cost : 44.921517
+epoch start
+epoch : 266  loss : 0.000058  valid_F1 : 0.338448
+time cost : 44.957695
+epoch start
+epoch : 267  loss : 0.000058  valid_F1 : 0.338304
+time cost : 45.091081
+epoch start
+epoch : 268  loss : 0.000058  valid_F1 : 0.337878
+time cost : 44.877187
+epoch start
+epoch : 269  loss : 0.000058  valid_F1 : 0.337806
+time cost : 44.932076
+epoch start
+epoch : 270  loss : 0.000058  valid_F1 : 0.338016
+time cost : 45.048998
+epoch start
+epoch : 271  loss : 0.000058  valid_F1 : 0.338016
+time cost : 44.933068
+epoch start
+epoch : 272  loss : 0.000058  valid_F1 : 0.338016
+time cost : 45.073021
+epoch start
+epoch : 273  loss : 0.000058  valid_F1 : 0.338016
+time cost : 45.028361
+epoch start
+epoch : 274  loss : 0.000058  valid_F1 : 0.338370
+time cost : 45.012873
+epoch start
+epoch : 275  loss : 0.000058  valid_F1 : 0.338298
+time cost : 44.981157
+epoch start
+epoch : 276  loss : 0.000058  valid_F1 : 0.338226
+time cost : 45.166469
+epoch start
+epoch : 277  loss : 0.000058  valid_F1 : 0.338226
+time cost : 44.975499
+epoch start
+epoch : 278  loss : 0.000058  valid_F1 : 0.338154
+time cost : 44.986020
+epoch start
+epoch : 279  loss : 0.000058  valid_F1 : 0.338154
+time cost : 45.092493
+epoch start
+epoch : 280  loss : 0.000058  valid_F1 : 0.338154
+time cost : 44.987037
+epoch start
+epoch : 281  loss : 0.000058  valid_F1 : 0.338082
+time cost : 44.905980
+epoch start
+epoch : 282  loss : 0.000058  valid_F1 : 0.337938
+time cost : 45.019043
+epoch start
+epoch : 283  loss : 0.000058  valid_F1 : 0.337938
+time cost : 44.960808
+epoch start
+epoch : 284  loss : 0.000058  valid_F1 : 0.337938
+time cost : 44.951376
+epoch start
+epoch : 285  loss : 0.000058  valid_F1 : 0.338010
+time cost : 44.935095
+epoch start
+epoch : 286  loss : 0.000058  valid_F1 : 0.338010
+time cost : 44.839906
+epoch start
+epoch : 287  loss : 0.000058  valid_F1 : 0.338010
+time cost : 44.905165
+epoch start
+epoch : 288  loss : 0.000058  valid_F1 : 0.338010
+time cost : 45.131806
+epoch start
+epoch : 289  loss : 0.000058  valid_F1 : 0.337867
+time cost : 44.908405
+epoch start
+epoch : 290  loss : 0.000058  valid_F1 : 0.337723
+time cost : 44.842402
+epoch start
+epoch : 291  loss : 0.000058  valid_F1 : 0.338076
+time cost : 45.083318
+epoch start
+epoch : 292  loss : 0.000058  valid_F1 : 0.338076
+time cost : 45.012898
+epoch start
+epoch : 293  loss : 0.000058  valid_F1 : 0.338429
+time cost : 45.080160
+epoch start
+epoch : 294  loss : 0.000058  valid_F1 : 0.338501
+time cost : 45.212504
+epoch start
+epoch : 295  loss : 0.000058  valid_F1 : 0.338501
+time cost : 45.022884
+epoch start
+epoch : 296  loss : 0.000058  valid_F1 : 0.338501
+time cost : 44.858361
+epoch start
+epoch : 297  loss : 0.000058  valid_F1 : 0.338782
+time cost : 45.050380
+epoch start
+epoch : 298  loss : 0.000058  valid_F1 : 0.338710
+time cost : 45.014493
+epoch start
+epoch : 299  loss : 0.000058  valid_F1 : 0.339062
+time cost : 45.067237
+epoch start
+epoch : 300  loss : 0.000058  valid_F1 : 0.338990
+time cost : 45.171334
+epoch start
+epoch : 301  loss : 0.000058  valid_F1 : 0.339343
+time cost : 44.994132
+epoch start
+epoch : 302  loss : 0.000058  valid_F1 : 0.339350
+time cost : 44.857566
+epoch start
+epoch : 303  loss : 0.000058  valid_F1 : 0.339278
+time cost : 45.010699
+epoch start
+epoch : 304  loss : 0.000058  valid_F1 : 0.339206
+time cost : 44.974102
+epoch start
+epoch : 305  loss : 0.000058  valid_F1 : 0.339206
+time cost : 45.030491
+epoch start
+epoch : 306  loss : 0.000058  valid_F1 : 0.339134
+time cost : 45.189427
+epoch start
+epoch : 307  loss : 0.000058  valid_F1 : 0.339062
+time cost : 44.954170
+epoch start
+epoch : 308  loss : 0.000058  valid_F1 : 0.339062
+time cost : 45.076927
+epoch start
+epoch : 309  loss : 0.000058  valid_F1 : 0.338990
+time cost : 45.211675
+epoch start
+epoch : 310  loss : 0.000058  valid_F1 : 0.338990
+time cost : 44.919182
+epoch start
+epoch : 311  loss : 0.000058  valid_F1 : 0.339343
+time cost : 44.958469
+epoch start
+epoch : 312  loss : 0.000058  valid_F1 : 0.339343
+time cost : 44.979923
+epoch start
+epoch : 313  loss : 0.000058  valid_F1 : 0.339623
+time cost : 44.811720
+epoch start
+epoch : 314  loss : 0.000058  valid_F1 : 0.339623
+time cost : 44.910800
+epoch start
+epoch : 315  loss : 0.000058  valid_F1 : 0.339127
+time cost : 45.093194
+epoch start
+epoch : 316  loss : 0.000058  valid_F1 : 0.339055
+time cost : 44.933024
+epoch start
+epoch : 317  loss : 0.000058  valid_F1 : 0.339199
+time cost : 44.818352
+epoch start
+epoch : 318  loss : 0.000058  valid_F1 : 0.339199
+time cost : 45.032228
+epoch start
+epoch : 319  loss : 0.000058  valid_F1 : 0.339903
+time cost : 44.980198
+epoch start
+epoch : 320  loss : 0.000058  valid_F1 : 0.339831
+time cost : 44.968730
+epoch start
+epoch : 321  loss : 0.000058  valid_F1 : 0.339831
+time cost : 45.158550
+epoch start
+epoch : 322  loss : 0.000058  valid_F1 : 0.339831
+time cost : 44.971486
+epoch start
+epoch : 323  loss : 0.000058  valid_F1 : 0.339759
+time cost : 44.891629
+epoch start
+epoch : 324  loss : 0.000058  valid_F1 : 0.339759
+time cost : 45.016270
+epoch start
+epoch : 325  loss : 0.000058  valid_F1 : 0.339759
+time cost : 45.000043
+epoch start
+epoch : 326  loss : 0.000058  valid_F1 : 0.340462
+time cost : 45.003314
+epoch start
+epoch : 327  loss : 0.000058  valid_F1 : 0.340462
+time cost : 45.089777
+epoch start
+epoch : 328  loss : 0.000058  valid_F1 : 0.340462
+time cost : 44.968772
+epoch start
+epoch : 329  loss : 0.000058  valid_F1 : 0.340462
+time cost : 44.825794
+epoch start
+epoch : 330  loss : 0.000058  valid_F1 : 0.340462
+time cost : 45.031963
+epoch start
+epoch : 331  loss : 0.000058  valid_F1 : 0.340813
+time cost : 44.928036
+epoch start
+epoch : 332  loss : 0.000058  valid_F1 : 0.340462
+time cost : 45.000894
+epoch start
+epoch : 333  loss : 0.000058  valid_F1 : 0.340317
+time cost : 45.074097
+epoch start
+epoch : 334  loss : 0.000058  valid_F1 : 0.340597
+time cost : 44.968739
+epoch start
+epoch : 335  loss : 0.000058  valid_F1 : 0.340525
+time cost : 45.045746
+epoch start
+epoch : 336  loss : 0.000058  valid_F1 : 0.340525
+time cost : 44.975466
+epoch start
+epoch : 337  loss : 0.000058  valid_F1 : 0.340948
+time cost : 44.923808
+epoch start
+epoch : 338  loss : 0.000058  valid_F1 : 0.340948
+time cost : 45.022116
+epoch start
+epoch : 339  loss : 0.000058  valid_F1 : 0.340948
+time cost : 45.144516
+epoch start
+epoch : 340  loss : 0.000058  valid_F1 : 0.340948
+time cost : 44.946949
+epoch start
+epoch : 341  loss : 0.000058  valid_F1 : 0.340948
+time cost : 45.045394
+epoch start
+epoch : 342  loss : 0.000058  valid_F1 : 0.340875
+time cost : 45.016313
+epoch start
+epoch : 343  loss : 0.000058  valid_F1 : 0.340875
+time cost : 44.845078
+epoch start
+epoch : 344  loss : 0.000058  valid_F1 : 0.340803
+time cost : 44.996050
+epoch start
+epoch : 345  loss : 0.000058  valid_F1 : 0.340803
+time cost : 45.108219
+epoch start
+epoch : 346  loss : 0.000058  valid_F1 : 0.341432
+time cost : 44.982989
+epoch start
+epoch : 347  loss : 0.000058  valid_F1 : 0.341360
+time cost : 44.871477
+epoch start
+epoch : 348  loss : 0.000058  valid_F1 : 0.341360
+time cost : 45.108530
+epoch start
+epoch : 349  loss : 0.000058  valid_F1 : 0.341360
+time cost : 45.114762
+epoch start
+epoch : 350  loss : 0.000058  valid_F1 : 0.341639
+time cost : 45.070822
+epoch start
+epoch : 351  loss : 0.000058  valid_F1 : 0.341711
+time cost : 45.181709
+epoch start
+epoch : 352  loss : 0.000058  valid_F1 : 0.341783
+time cost : 44.926680
+epoch start
+epoch : 353  loss : 0.000058  valid_F1 : 0.341783
+time cost : 44.968069
+epoch start
+epoch : 354  loss : 0.000058  valid_F1 : 0.342061
+time cost : 45.104114
+epoch start
+epoch : 355  loss : 0.000058  valid_F1 : 0.342339
+time cost : 44.933670
+epoch start
+epoch : 356  loss : 0.000058  valid_F1 : 0.342339
+time cost : 44.872968
+epoch start
+epoch : 357  loss : 0.000058  valid_F1 : 0.342761
+time cost : 45.001752
+epoch start
+epoch : 358  loss : 0.000058  valid_F1 : 0.342761
+time cost : 44.878860
+epoch start
+epoch : 359  loss : 0.000058  valid_F1 : 0.342688
+time cost : 44.978391
+epoch start
+epoch : 360  loss : 0.000058  valid_F1 : 0.342688
+time cost : 45.061058
+epoch start
+epoch : 361  loss : 0.000058  valid_F1 : 0.342688
+time cost : 44.818846
+epoch start
+epoch : 362  loss : 0.000058  valid_F1 : 0.342411
+time cost : 44.879816
+epoch start
+epoch : 363  loss : 0.000058  valid_F1 : 0.342266
+time cost : 45.044978
+epoch start
+epoch : 364  loss : 0.000058  valid_F1 : 0.342266
+time cost : 44.885658
+epoch start
+epoch : 365  loss : 0.000058  valid_F1 : 0.342266
+time cost : 45.029838
+epoch start
+epoch : 366  loss : 0.000058  valid_F1 : 0.342266
+time cost : 44.949064
+epoch start
+epoch : 367  loss : 0.000058  valid_F1 : 0.342266
+time cost : 44.876891
+epoch start
+epoch : 368  loss : 0.000058  valid_F1 : 0.341916
+time cost : 44.997537
+epoch start
+epoch : 369  loss : 0.000058  valid_F1 : 0.341916
+time cost : 45.015839
+epoch start
+epoch : 370  loss : 0.000058  valid_F1 : 0.341844
+time cost : 44.972306
+epoch start
+epoch : 371  loss : 0.000058  valid_F1 : 0.341844
+time cost : 45.050644
+epoch start
+epoch : 372  loss : 0.000058  valid_F1 : 0.341772
+time cost : 45.004414
+epoch start
+epoch : 373  loss : 0.000058  valid_F1 : 0.342194
+time cost : 44.942385
+epoch start
+epoch : 374  loss : 0.000058  valid_F1 : 0.342194
+time cost : 44.977778
+epoch start
+epoch : 375  loss : 0.000058  valid_F1 : 0.342266
+time cost : 45.099338
+epoch start
+epoch : 376  loss : 0.000058  valid_F1 : 0.342616
+time cost : 44.941988
+epoch start
+epoch : 377  loss : 0.000058  valid_F1 : 0.342544
+time cost : 45.038608
+epoch start
+epoch : 378  loss : 0.000058  valid_F1 : 0.342544
+time cost : 45.012812
+epoch start
+epoch : 379  loss : 0.000058  valid_F1 : 0.342893
+time cost : 44.920351
+epoch start
+epoch : 380  loss : 0.000058  valid_F1 : 0.342893
+time cost : 44.934413
+epoch start
+epoch : 381  loss : 0.000058  valid_F1 : 0.342893
+time cost : 45.072245
+epoch start
+epoch : 382  loss : 0.000058  valid_F1 : 0.342893
+time cost : 44.946034
+epoch start
+epoch : 383  loss : 0.000058  valid_F1 : 0.343243
+time cost : 45.032480
+epoch start
+epoch : 384  loss : 0.000058  valid_F1 : 0.343243
+time cost : 45.117811
+epoch start
+epoch : 385  loss : 0.000058  valid_F1 : 0.343243
+time cost : 44.860539
+epoch start
+epoch : 386  loss : 0.000058  valid_F1 : 0.343243
+time cost : 44.891819
+epoch start
+epoch : 387  loss : 0.000058  valid_F1 : 0.343243
+time cost : 45.027989
+epoch start
+epoch : 388  loss : 0.000058  valid_F1 : 0.343243
+time cost : 44.926265
+epoch start
+epoch : 389  loss : 0.000058  valid_F1 : 0.343170
+time cost : 45.016165
+epoch start
+epoch : 390  loss : 0.000058  valid_F1 : 0.343170
+time cost : 45.172195
+epoch start
+epoch : 391  loss : 0.000058  valid_F1 : 0.343519
+time cost : 44.933530
+epoch start
+epoch : 392  loss : 0.000058  valid_F1 : 0.343724
+time cost : 45.077715
+epoch start
+epoch : 393  loss : 0.000058  valid_F1 : 0.343724
+time cost : 45.090166
+epoch start
+epoch : 394  loss : 0.000058  valid_F1 : 0.343724
+time cost : 45.009865
+epoch start
+epoch : 395  loss : 0.000058  valid_F1 : 0.343724
+time cost : 45.084643
+epoch start
+epoch : 396  loss : 0.000058  valid_F1 : 0.343928
+time cost : 45.086310
+epoch start
+epoch : 397  loss : 0.000058  valid_F1 : 0.343928
+time cost : 44.891047
+epoch start
+epoch : 398  loss : 0.000058  valid_F1 : 0.344131
+time cost : 45.005535
+epoch start
+epoch : 399  loss : 0.000058  valid_F1 : 0.344131
+time cost : 45.082959
+epoch start
+epoch : 400  loss : 0.000058  valid_F1 : 0.344131
+time cost : 44.973670
+epoch start
+epoch : 401  loss : 0.000058  valid_F1 : 0.344131
+time cost : 44.976058
+epoch start
+epoch : 402  loss : 0.000058  valid_F1 : 0.344059
+time cost : 44.975533
+epoch start
+epoch : 403  loss : 0.000058  valid_F1 : 0.344059
+time cost : 44.915008
+epoch start
+epoch : 404  loss : 0.000058  valid_F1 : 0.344059
+time cost : 45.061687
+epoch start
+epoch : 405  loss : 0.000058  valid_F1 : 0.344059
+time cost : 45.213531
+epoch start
+epoch : 406  loss : 0.000058  valid_F1 : 0.343638
+time cost : 44.937145
+epoch start
+epoch : 407  loss : 0.000058  valid_F1 : 0.343566
+time cost : 45.079881
+epoch start
+epoch : 408  loss : 0.000058  valid_F1 : 0.342869
+time cost : 45.087019
+epoch start
+epoch : 409  loss : 0.000058  valid_F1 : 0.342797
+time cost : 44.963122
+epoch start
+epoch : 410  loss : 0.000058  valid_F1 : 0.342797
+time cost : 44.992369
+epoch start
+epoch : 411  loss : 0.000058  valid_F1 : 0.342797
+time cost : 45.119994
+epoch start
+epoch : 412  loss : 0.000058  valid_F1 : 0.342797
+time cost : 44.854443
+epoch start
+epoch : 413  loss : 0.000058  valid_F1 : 0.342725
+time cost : 44.933607
+epoch start
+epoch : 414  loss : 0.000058  valid_F1 : 0.342725
+time cost : 45.049543
+epoch start
+epoch : 415  loss : 0.000058  valid_F1 : 0.342725
+time cost : 44.952261
+epoch start
+epoch : 416  loss : 0.000058  valid_F1 : 0.343277
+time cost : 44.958877
+epoch start
+epoch : 417  loss : 0.000058  valid_F1 : 0.343205
+time cost : 44.951780
+epoch start
+epoch : 418  loss : 0.000058  valid_F1 : 0.343553
+time cost : 44.919300
+epoch start
+epoch : 419  loss : 0.000058  valid_F1 : 0.343553
+time cost : 45.005719
+epoch start
+epoch : 420  loss : 0.000058  valid_F1 : 0.343553
+time cost : 45.051421
+epoch start
+epoch : 421  loss : 0.000058  valid_F1 : 0.343553
+time cost : 44.885762
+epoch start
+epoch : 422  loss : 0.000058  valid_F1 : 0.343553
+time cost : 45.024974
+epoch start
+epoch : 423  loss : 0.000058  valid_F1 : 0.343553
+time cost : 45.000927
+epoch start
+epoch : 424  loss : 0.000058  valid_F1 : 0.343697
+time cost : 44.873717
+epoch start
+epoch : 425  loss : 0.000058  valid_F1 : 0.343625
+time cost : 45.077419
+epoch start
+epoch : 426  loss : 0.000058  valid_F1 : 0.343553
+time cost : 45.160768
+epoch start
+epoch : 427  loss : 0.000058  valid_F1 : 0.343133
+time cost : 44.996675
+epoch start
+epoch : 428  loss : 0.000058  valid_F1 : 0.343133
+time cost : 44.929343
+epoch start
+epoch : 429  loss : 0.000058  valid_F1 : 0.343061
+time cost : 45.028676
+epoch start
+epoch : 430  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.913105
+epoch start
+epoch : 431  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.981902
+epoch start
+epoch : 432  loss : 0.000058  valid_F1 : 0.343061
+time cost : 45.068328
+epoch start
+epoch : 433  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.936443
+epoch start
+epoch : 434  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.951229
+epoch start
+epoch : 435  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.971364
+epoch start
+epoch : 436  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.893969
+epoch start
+epoch : 437  loss : 0.000058  valid_F1 : 0.343061
+time cost : 44.954644
+epoch start
+epoch : 438  loss : 0.000058  valid_F1 : 0.343409
+time cost : 45.066495
+epoch start
+epoch : 439  loss : 0.000058  valid_F1 : 0.343409
+time cost : 44.954308
+epoch start
+epoch : 440  loss : 0.000058  valid_F1 : 0.343409
+time cost : 44.951417
+epoch start
+epoch : 441  loss : 0.000058  valid_F1 : 0.343409
+time cost : 45.135951
+epoch start
+epoch : 442  loss : 0.000058  valid_F1 : 0.343409
+time cost : 44.996799
+epoch start
+epoch : 443  loss : 0.000058  valid_F1 : 0.343337
+time cost : 44.917414
+epoch start
+epoch : 444  loss : 0.000058  valid_F1 : 0.343337
+time cost : 44.988915
+epoch start
+epoch : 445  loss : 0.000058  valid_F1 : 0.343337
+time cost : 45.023285
+epoch start
+epoch : 446  loss : 0.000058  valid_F1 : 0.343337
+time cost : 45.081255
+epoch start
+epoch : 447  loss : 0.000058  valid_F1 : 0.343337
+time cost : 45.251901
+epoch start
+epoch : 448  loss : 0.000058  valid_F1 : 0.343121
+time cost : 45.125114
+epoch start
+epoch : 449  loss : 0.000058  valid_F1 : 0.343121
+time cost : 45.057766
+epoch start
+epoch : 450  loss : 0.000058  valid_F1 : 0.343121
+time cost : 44.950218
+epoch start
+epoch : 451  loss : 0.000058  valid_F1 : 0.343121
+time cost : 44.923004
+epoch start
+epoch : 452  loss : 0.000058  valid_F1 : 0.343121
+time cost : 45.023895
+epoch start
+epoch : 453  loss : 0.000058  valid_F1 : 0.343193
+time cost : 45.096738
+epoch start
+epoch : 454  loss : 0.000058  valid_F1 : 0.343193
+time cost : 44.833513
+epoch start
+epoch : 455  loss : 0.000058  valid_F1 : 0.343193
+time cost : 44.870743
+epoch start
+epoch : 456  loss : 0.000058  valid_F1 : 0.343193
+time cost : 45.045038
+epoch start
+epoch : 457  loss : 0.000058  valid_F1 : 0.343193
+time cost : 44.973020
+epoch start
+epoch : 458  loss : 0.000058  valid_F1 : 0.343193
+time cost : 45.014304
+epoch start
+epoch : 459  loss : 0.000058  valid_F1 : 0.343121
+time cost : 45.118836
+epoch start
+epoch : 460  loss : 0.000058  valid_F1 : 0.343121
+time cost : 44.853025
+epoch start
+epoch : 461  loss : 0.000058  valid_F1 : 0.343121
+time cost : 44.855625
+epoch start
+epoch : 462  loss : 0.000058  valid_F1 : 0.343121
+time cost : 44.983797
+epoch start
+epoch : 463  loss : 0.000058  valid_F1 : 0.343816
+time cost : 44.983691
+epoch start
+epoch : 464  loss : 0.000058  valid_F1 : 0.344163
+time cost : 45.019341
+epoch start
+epoch : 465  loss : 0.000058  valid_F1 : 0.344437
+time cost : 45.034056
+epoch start
+epoch : 466  loss : 0.000058  valid_F1 : 0.344437
+time cost : 44.930991
+epoch start
+epoch : 467  loss : 0.000058  valid_F1 : 0.344437
+time cost : 44.923078
+epoch start
+epoch : 468  loss : 0.000058  valid_F1 : 0.344437
+time cost : 45.183137
+epoch start
+epoch : 469  loss : 0.000058  valid_F1 : 0.344437
+time cost : 44.906692
+epoch start
+epoch : 470  loss : 0.000058  valid_F1 : 0.344437
+time cost : 44.866677
+epoch start
+epoch : 471  loss : 0.000058  valid_F1 : 0.344437
+time cost : 45.114383
+epoch start
+epoch : 472  loss : 0.000058  valid_F1 : 0.344437
+time cost : 44.987301
+epoch start
+epoch : 473  loss : 0.000058  valid_F1 : 0.344784
+time cost : 44.960987
+epoch start
+epoch : 474  loss : 0.000058  valid_F1 : 0.344784
+time cost : 45.061773
+epoch start
+epoch : 475  loss : 0.000058  valid_F1 : 0.344784
+time cost : 44.852789
+epoch start
+epoch : 476  loss : 0.000058  valid_F1 : 0.344712
+time cost : 44.873376
+epoch start
+epoch : 477  loss : 0.000058  valid_F1 : 0.344712
+time cost : 45.027814
+epoch start
+epoch : 478  loss : 0.000058  valid_F1 : 0.344712
+time cost : 44.948454
+epoch start
+epoch : 479  loss : 0.000058  valid_F1 : 0.344712
+time cost : 45.040282
+epoch start
+epoch : 480  loss : 0.000058  valid_F1 : 0.344712
+time cost : 44.989001
+epoch start
+epoch : 481  loss : 0.000058  valid_F1 : 0.345059
+time cost : 44.857383
+epoch start
+epoch : 482  loss : 0.000058  valid_F1 : 0.345059
+time cost : 44.941028
+epoch start
+epoch : 483  loss : 0.000058  valid_F1 : 0.344986
+time cost : 45.118248
+epoch start
+epoch : 484  loss : 0.000058  valid_F1 : 0.345333
+time cost : 44.938038
+epoch start
+epoch : 485  loss : 0.000058  valid_F1 : 0.345333
+time cost : 44.970524
+epoch start
+epoch : 486  loss : 0.000058  valid_F1 : 0.345333
+time cost : 45.045602
+epoch start
+epoch : 487  loss : 0.000058  valid_F1 : 0.345333
+time cost : 44.966741
+epoch start
+epoch : 488  loss : 0.000058  valid_F1 : 0.345333
+time cost : 44.995225
+epoch start
+epoch : 489  loss : 0.000058  valid_F1 : 0.345333
+time cost : 45.203700
+epoch start
+epoch : 490  loss : 0.000058  valid_F1 : 0.345333
+time cost : 44.930773
+epoch start
+epoch : 491  loss : 0.000058  valid_F1 : 0.345534
+time cost : 44.915153
+epoch start
+epoch : 492  loss : 0.000058  valid_F1 : 0.345534
+time cost : 45.139560
+epoch start
+epoch : 493  loss : 0.000058  valid_F1 : 0.345462
+time cost : 45.065509
+epoch start
+epoch : 494  loss : 0.000058  valid_F1 : 0.345390
+time cost : 45.045703
+epoch start
+epoch : 495  loss : 0.000058  valid_F1 : 0.345390
+time cost : 45.035633
+epoch start
+epoch : 496  loss : 0.000058  valid_F1 : 0.345390
+time cost : 44.947610
+epoch start
+epoch : 497  loss : 0.000058  valid_F1 : 0.345318
+time cost : 44.914874
+epoch start
+epoch : 498  loss : 0.000058  valid_F1 : 0.345318
+time cost : 45.054118
+epoch start
+epoch : 499  loss : 0.000058  valid_F1 : 0.345390
+time cost : 44.999070
+epoch start
+epoch : 500  loss : 0.000058  valid_F1 : 0.345173
+time cost : 44.840037
+epoch start
+epoch : 501  loss : 0.000058  valid_F1 : 0.345173
+time cost : 45.143430
+epoch start
+epoch : 502  loss : 0.000058  valid_F1 : 0.345173
+time cost : 45.111059
+epoch start
+epoch : 503  loss : 0.000058  valid_F1 : 0.345173
+time cost : 45.112999
+epoch start
+epoch : 504  loss : 0.000058  valid_F1 : 0.345173
+time cost : 45.139842
+epoch start
+epoch : 505  loss : 0.000058  valid_F1 : 0.345029
+time cost : 45.100371
+epoch start
+epoch : 506  loss : 0.000058  valid_F1 : 0.344957
+time cost : 44.917612
+epoch start
+epoch : 507  loss : 0.000058  valid_F1 : 0.344957
+time cost : 45.073512
+epoch start
+epoch : 508  loss : 0.000058  valid_F1 : 0.344885
+time cost : 44.916839
+epoch start
+epoch : 509  loss : 0.000058  valid_F1 : 0.344813
+time cost : 44.971501
+epoch start
+epoch : 510  loss : 0.000058  valid_F1 : 0.344813
+time cost : 45.072855
+epoch start
+epoch : 511  loss : 0.000058  valid_F1 : 0.344813
+time cost : 44.802996
+epoch start
+epoch : 512  loss : 0.000058  valid_F1 : 0.344813
+time cost : 44.934075
+epoch start
+epoch : 513  loss : 0.000058  valid_F1 : 0.344813
+time cost : 45.011932
+epoch start
+epoch : 514  loss : 0.000058  valid_F1 : 0.344813
+time cost : 44.913651
+epoch start
+epoch : 515  loss : 0.000058  valid_F1 : 0.344813
+time cost : 45.014809
+epoch start
+epoch : 516  loss : 0.000058  valid_F1 : 0.344885
+time cost : 44.972653
+epoch start
+epoch : 517  loss : 0.000058  valid_F1 : 0.344885
+time cost : 44.829223
+epoch start
+epoch : 518  loss : 0.000058  valid_F1 : 0.344885
+time cost : 44.980823
+epoch start
+epoch : 519  loss : 0.000058  valid_F1 : 0.344885
+time cost : 45.087821
+epoch start
+epoch : 520  loss : 0.000058  valid_F1 : 0.344813
+time cost : 44.881918
+epoch start
+epoch : 521  loss : 0.000058  valid_F1 : 0.344885
+time cost : 44.894781
+epoch start
+epoch : 522  loss : 0.000058  valid_F1 : 0.344885
+time cost : 45.048687
+epoch start
+epoch : 523  loss : 0.000058  valid_F1 : 0.344885
+time cost : 44.937231
+epoch start
+epoch : 524  loss : 0.000058  valid_F1 : 0.344885
+time cost : 45.000125
+epoch start
+epoch : 525  loss : 0.000058  valid_F1 : 0.344885
+time cost : 45.110731
+epoch start
+epoch : 526  loss : 0.000058  valid_F1 : 0.344310
+time cost : 44.967329
+epoch start
+epoch : 527  loss : 0.000058  valid_F1 : 0.344310
+time cost : 44.868718
+epoch start
+epoch : 528  loss : 0.000058  valid_F1 : 0.344310
+time cost : 45.033529
+epoch start
+epoch : 529  loss : 0.000058  valid_F1 : 0.344310
+time cost : 44.941391
+epoch start
+epoch : 530  loss : 0.000058  valid_F1 : 0.344310
+time cost : 48.626964
+epoch start
+epoch : 531  loss : 0.000058  valid_F1 : 0.344310
+time cost : 45.137154
+epoch start
+epoch : 532  loss : 0.000058  valid_F1 : 0.344310
+time cost : 44.985001
+epoch start
+epoch : 533  loss : 0.000058  valid_F1 : 0.344238
+time cost : 44.880602
+epoch start
+epoch : 534  loss : 0.000058  valid_F1 : 0.344238
+time cost : 45.070541
+epoch start
+epoch : 535  loss : 0.000058  valid_F1 : 0.344238
+time cost : 44.941988
+epoch start
+epoch : 536  loss : 0.000058  valid_F1 : 0.344238
+time cost : 44.973598
+epoch start
+epoch : 537  loss : 0.000058  valid_F1 : 0.344238
+time cost : 45.098148
+epoch start
+epoch : 538  loss : 0.000058  valid_F1 : 0.344238
+time cost : 44.996148
+epoch start
+epoch : 539  loss : 0.000058  valid_F1 : 0.344238
+time cost : 45.075033
+epoch start
+epoch : 540  loss : 0.000058  valid_F1 : 0.344238
+time cost : 45.040191
+epoch start
+epoch : 541  loss : 0.000058  valid_F1 : 0.344238
+time cost : 44.993024
+epoch start
+epoch : 542  loss : 0.000058  valid_F1 : 0.344238
+time cost : 44.965617
+epoch start
+epoch : 543  loss : 0.000058  valid_F1 : 0.344238
+time cost : 45.812613
+epoch start
+epoch : 544  loss : 0.000058  valid_F1 : 0.344167
+time cost : 44.968667
+epoch start
+epoch : 545  loss : 0.000058  valid_F1 : 0.344095
+time cost : 45.067102
+epoch start
+epoch : 546  loss : 0.000058  valid_F1 : 0.344023
+time cost : 45.248688
+epoch start
+epoch : 547  loss : 0.000058  valid_F1 : 0.344023
+time cost : 45.131962
+epoch start
+epoch : 548  loss : 0.000058  valid_F1 : 0.344023
+time cost : 44.787667
+epoch start
+epoch : 549  loss : 0.000058  valid_F1 : 0.344023
+time cost : 45.078183
+epoch start
+epoch : 550  loss : 0.000058  valid_F1 : 0.344023
+time cost : 44.980045
+epoch start
+epoch : 551  loss : 0.000058  valid_F1 : 0.343952
+time cost : 44.937711
+epoch start
+epoch : 552  loss : 0.000058  valid_F1 : 0.343952
+time cost : 45.102702
+epoch start
+epoch : 553  loss : 0.000058  valid_F1 : 0.343880
+time cost : 44.809454
+epoch start
+epoch : 554  loss : 0.000058  valid_F1 : 0.343737
+time cost : 44.882192
+epoch start
+epoch : 555  loss : 0.000058  valid_F1 : 0.344082
+time cost : 45.015373
+epoch start
+epoch : 556  loss : 0.000058  valid_F1 : 0.343938
+time cost : 44.881422
+epoch start
+epoch : 557  loss : 0.000058  valid_F1 : 0.343938
+time cost : 44.811041
+epoch start
+epoch : 558  loss : 0.000058  valid_F1 : 0.343938
+time cost : 45.051623
+epoch start
+epoch : 559  loss : 0.000058  valid_F1 : 0.343938
+time cost : 44.910242
+epoch start
+epoch : 560  loss : 0.000058  valid_F1 : 0.343938
+time cost : 45.180837
+epoch start
+epoch : 561  loss : 0.000058  valid_F1 : 0.343795
+time cost : 45.127485
+epoch start
+epoch : 562  loss : 0.000058  valid_F1 : 0.343724
+time cost : 44.855153
+epoch start
+epoch : 563  loss : 0.000058  valid_F1 : 0.343724
+time cost : 44.957081
+epoch start
+epoch : 564  loss : 0.000058  valid_F1 : 0.343724
+time cost : 45.116805
+epoch start
+epoch : 565  loss : 0.000058  valid_F1 : 0.343724
+time cost : 44.945412
+epoch start
+epoch : 566  loss : 0.000058  valid_F1 : 0.343795
+time cost : 45.107785
+epoch start
+epoch : 567  loss : 0.000058  valid_F1 : 0.343795
+time cost : 44.945300
+epoch start
+epoch : 568  loss : 0.000058  valid_F1 : 0.343795
+time cost : 44.918274
+epoch start
+epoch : 569  loss : 0.000058  valid_F1 : 0.343795
+time cost : 45.034081
+epoch start
+epoch : 570  loss : 0.000058  valid_F1 : 0.343795
+time cost : 45.137908
+epoch start
+epoch : 571  loss : 0.000058  valid_F1 : 0.343795
+time cost : 44.923627
+epoch start
+epoch : 572  loss : 0.000058  valid_F1 : 0.343795
+time cost : 44.784144
+epoch start
+epoch : 573  loss : 0.000058  valid_F1 : 0.343867
+time cost : 45.069408
+epoch start
+epoch : 574  loss : 0.000058  valid_F1 : 0.343867
+time cost : 44.925138
+epoch start
+epoch : 575  loss : 0.000058  valid_F1 : 0.343867
+time cost : 44.965745
+epoch start
+epoch : 576  loss : 0.000058  valid_F1 : 0.344211
+time cost : 45.045360
+epoch start
+epoch : 577  loss : 0.000058  valid_F1 : 0.344211
+time cost : 44.790743
+epoch start
+epoch : 578  loss : 0.000058  valid_F1 : 0.344211
+time cost : 44.932255
+epoch start
+epoch : 579  loss : 0.000058  valid_F1 : 0.343867
+time cost : 45.107020
+epoch start
+epoch : 580  loss : 0.000058  valid_F1 : 0.343867
+time cost : 44.920002
+epoch start
+epoch : 581  loss : 0.000058  valid_F1 : 0.343867
+time cost : 44.952158
+epoch start
+epoch : 582  loss : 0.000058  valid_F1 : 0.343867
+time cost : 44.920908
+epoch start
+epoch : 583  loss : 0.000058  valid_F1 : 0.344211
+time cost : 44.834553
+epoch start
+epoch : 584  loss : 0.000058  valid_F1 : 0.344211
+time cost : 44.939211
+epoch start
+epoch : 585  loss : 0.000058  valid_F1 : 0.344283
+time cost : 45.053715
+epoch start
+epoch : 586  loss : 0.000058  valid_F1 : 0.344211
+time cost : 45.029853
+epoch start
+epoch : 587  loss : 0.000058  valid_F1 : 0.344140
+time cost : 45.077454
+epoch start
+epoch : 588  loss : 0.000058  valid_F1 : 0.344140
+time cost : 45.118361
+epoch start
+epoch : 589  loss : 0.000058  valid_F1 : 0.344068
+time cost : 45.003448
+epoch start
+epoch : 590  loss : 0.000058  valid_F1 : 0.344068
+time cost : 45.005434
+epoch start
+epoch : 591  loss : 0.000058  valid_F1 : 0.343925
+time cost : 45.170550
+epoch start
+epoch : 592  loss : 0.000058  valid_F1 : 0.343581
+time cost : 45.017731
+epoch start
+epoch : 593  loss : 0.000058  valid_F1 : 0.343510
+time cost : 44.931107
+epoch start
+epoch : 594  loss : 0.000058  valid_F1 : 0.343510
+time cost : 44.990353
+epoch start
+epoch : 595  loss : 0.000058  valid_F1 : 0.343581
+time cost : 44.896958
+epoch start
+epoch : 596  loss : 0.000058  valid_F1 : 0.343581
+time cost : 44.999751
+epoch start
+epoch : 597  loss : 0.000058  valid_F1 : 0.343581
+time cost : 45.154782
+epoch start
+epoch : 598  loss : 0.000058  valid_F1 : 0.343581
+time cost : 44.817718
+epoch start
+epoch : 599  loss : 0.000058  valid_F1 : 0.343581
+time cost : 44.976692
+epoch start
+epoch : 600  loss : 0.000058  valid_F1 : 0.343581
+time cost : 45.183107
+epoch start
+epoch : 601  loss : 0.000058  valid_F1 : 0.343439
+time cost : 45.089638
+epoch start
+epoch : 602  loss : 0.000058  valid_F1 : 0.343439
+time cost : 45.159509
+epoch start
+epoch : 603  loss : 0.000058  valid_F1 : 0.343439
+time cost : 45.327835
+epoch start
+epoch : 604  loss : 0.000058  valid_F1 : 0.343439
+time cost : 44.856741
+epoch start
+epoch : 605  loss : 0.000058  valid_F1 : 0.343439
+time cost : 44.960110
+epoch start
+epoch : 606  loss : 0.000058  valid_F1 : 0.343439
+time cost : 45.069175
+epoch start
+epoch : 607  loss : 0.000058  valid_F1 : 0.343296
+time cost : 45.020496
+epoch start
+epoch : 608  loss : 0.000058  valid_F1 : 0.343296
+time cost : 45.006880
+epoch start
+epoch : 609  loss : 0.000058  valid_F1 : 0.343640
+time cost : 45.095109
+epoch start
+epoch : 610  loss : 0.000058  valid_F1 : 0.343640
+time cost : 44.799464
+epoch start
+epoch : 611  loss : 0.000058  valid_F1 : 0.343640
+time cost : 44.866812
+epoch start
+epoch : 612  loss : 0.000058  valid_F1 : 0.343983
+time cost : 45.089028
+epoch start
+epoch : 613  loss : 0.000058  valid_F1 : 0.343983
+time cost : 44.986507
+epoch start
+epoch : 614  loss : 0.000058  valid_F1 : 0.343983
+time cost : 44.984853
+epoch start
+epoch : 615  loss : 0.000058  valid_F1 : 0.344327
+time cost : 44.980518
+epoch start
+epoch : 616  loss : 0.000058  valid_F1 : 0.344327
+time cost : 44.869155
+epoch start
+epoch : 617  loss : 0.000058  valid_F1 : 0.344126
+time cost : 44.904392
+epoch start
+epoch : 618  loss : 0.000058  valid_F1 : 0.344398
+time cost : 45.124849
+epoch start
+epoch : 619  loss : 0.000058  valid_F1 : 0.344327
+time cost : 44.968536
+epoch start
+epoch : 620  loss : 0.000058  valid_F1 : 0.344327
+time cost : 45.038475
+epoch start
+epoch : 621  loss : 0.000058  valid_F1 : 0.344670
+time cost : 44.954122
+epoch start
+epoch : 622  loss : 0.000058  valid_F1 : 0.344670
+time cost : 44.875653
+epoch start
+epoch : 623  loss : 0.000058  valid_F1 : 0.344670
+time cost : 44.925709
+epoch start
+epoch : 624  loss : 0.000058  valid_F1 : 0.344670
+time cost : 45.063835
+epoch start
+epoch : 625  loss : 0.000058  valid_F1 : 0.344670
+time cost : 44.940020
+epoch start
+epoch : 626  loss : 0.000058  valid_F1 : 0.344670
+time cost : 44.777148
+epoch start
+epoch : 627  loss : 0.000058  valid_F1 : 0.344670
+time cost : 44.992511
+epoch start
+epoch : 628  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.926487
+epoch start
+epoch : 629  loss : 0.000058  valid_F1 : 0.344742
+time cost : 45.070088
+epoch start
+epoch : 630  loss : 0.000058  valid_F1 : 0.344742
+time cost : 45.090218
+epoch start
+epoch : 631  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.987339
+epoch start
+epoch : 632  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.863873
+epoch start
+epoch : 633  loss : 0.000058  valid_F1 : 0.344742
+time cost : 45.018132
+epoch start
+epoch : 634  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.895966
+epoch start
+epoch : 635  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.966543
+epoch start
+epoch : 636  loss : 0.000058  valid_F1 : 0.344742
+time cost : 45.124172
+epoch start
+epoch : 637  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.853696
+epoch start
+epoch : 638  loss : 0.000058  valid_F1 : 0.344742
+time cost : 44.975408
+epoch start
+epoch : 639  loss : 0.000058  valid_F1 : 0.344742
+time cost : 45.134347
+epoch start
+epoch : 640  loss : 0.000058  valid_F1 : 0.344813
+time cost : 44.934390
+epoch start
+epoch : 641  loss : 0.000058  valid_F1 : 0.344813
+time cost : 45.050364
+epoch start
+epoch : 642  loss : 0.000058  valid_F1 : 0.344813
+time cost : 45.098759
+epoch start
+epoch : 643  loss : 0.000058  valid_F1 : 0.344813
+time cost : 45.020975
+epoch start
+epoch : 644  loss : 0.000058  valid_F1 : 0.345100
+time cost : 45.079041
+epoch start
+epoch : 645  loss : 0.000058  valid_F1 : 0.345100
+time cost : 45.338762
+epoch start
+epoch : 646  loss : 0.000058  valid_F1 : 0.345100
+time cost : 44.916008
+epoch start
+epoch : 647  loss : 0.000058  valid_F1 : 0.345100
+time cost : 44.814846
+epoch start
+epoch : 648  loss : 0.000058  valid_F1 : 0.345100
+time cost : 45.035739
+epoch start
+epoch : 649  loss : 0.000058  valid_F1 : 0.345100
+time cost : 44.932036
+epoch start
+epoch : 650  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.021946
+epoch start
+epoch : 651  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.102494
+epoch start
+epoch : 652  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.006093
+epoch start
+epoch : 653  loss : 0.000058  valid_F1 : 0.345028
+time cost : 44.885026
+epoch start
+epoch : 654  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.046951
+epoch start
+epoch : 655  loss : 0.000058  valid_F1 : 0.345028
+time cost : 44.915067
+epoch start
+epoch : 656  loss : 0.000058  valid_F1 : 0.345028
+time cost : 44.962911
+epoch start
+epoch : 657  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.113228
+epoch start
+epoch : 658  loss : 0.000058  valid_F1 : 0.345028
+time cost : 44.807799
+epoch start
+epoch : 659  loss : 0.000058  valid_F1 : 0.345028
+time cost : 44.934150
+epoch start
+epoch : 660  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.108860
+epoch start
+epoch : 661  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.070453
+epoch start
+epoch : 662  loss : 0.000058  valid_F1 : 0.345028
+time cost : 45.095677
+epoch start
+epoch : 663  loss : 0.000058  valid_F1 : 0.345028
+time cost : 44.988703
+epoch start
+epoch : 664  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.962388
+epoch start
+epoch : 665  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.952468
+epoch start
+epoch : 666  loss : 0.000058  valid_F1 : 0.345300
+time cost : 45.076679
+epoch start
+epoch : 667  loss : 0.000058  valid_F1 : 0.345300
+time cost : 44.990774
+epoch start
+epoch : 668  loss : 0.000058  valid_F1 : 0.345300
+time cost : 44.958427
+epoch start
+epoch : 669  loss : 0.000058  valid_F1 : 0.345300
+time cost : 45.080951
+epoch start
+epoch : 670  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.947611
+epoch start
+epoch : 671  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.984283
+epoch start
+epoch : 672  loss : 0.000058  valid_F1 : 0.345372
+time cost : 45.104728
+epoch start
+epoch : 673  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.958523
+epoch start
+epoch : 674  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.994775
+epoch start
+epoch : 675  loss : 0.000058  valid_F1 : 0.345372
+time cost : 44.980303
+epoch start
+epoch : 676  loss : 0.000058  valid_F1 : 0.345300
+time cost : 44.844086
+epoch start
+epoch : 677  loss : 0.000058  valid_F1 : 0.345300
+time cost : 44.889555
+epoch start
+epoch : 678  loss : 0.000058  valid_F1 : 0.345300
+time cost : 45.116842
+epoch start
+epoch : 679  loss : 0.000058  valid_F1 : 0.345643
+time cost : 44.953851
+epoch start
+epoch : 680  loss : 0.000058  valid_F1 : 0.345643
+time cost : 44.954445
+epoch start
+epoch : 681  loss : 0.000058  valid_F1 : 0.345643
+time cost : 44.970742
+epoch start
+epoch : 682  loss : 0.000058  valid_F1 : 0.345643
+time cost : 44.846641
+epoch start
+epoch : 683  loss : 0.000058  valid_F1 : 0.345643
+time cost : 44.988801
+epoch start
+epoch : 684  loss : 0.000058  valid_F1 : 0.345643
+time cost : 45.141650
+epoch start
+epoch : 685  loss : 0.000058  valid_F1 : 0.345643
+time cost : 45.076915
+epoch start
+epoch : 686  loss : 0.000058  valid_F1 : 0.345643
+time cost : 45.149964
+epoch start
+epoch : 687  loss : 0.000058  valid_F1 : 0.345643
+time cost : 44.969966
+epoch start
+epoch : 688  loss : 0.000058  valid_F1 : 0.345428
+time cost : 44.900494
+epoch start
+epoch : 689  loss : 0.000058  valid_F1 : 0.345428
+time cost : 44.969514
+epoch start
+epoch : 690  loss : 0.000058  valid_F1 : 0.345357
+time cost : 45.088525
+epoch start
+epoch : 691  loss : 0.000058  valid_F1 : 0.345357
+time cost : 45.036135
+epoch start
+epoch : 692  loss : 0.000058  valid_F1 : 0.345285
+time cost : 44.933135
+epoch start
+epoch : 693  loss : 0.000058  valid_F1 : 0.345285
+time cost : 45.070634
+epoch start
+epoch : 694  loss : 0.000058  valid_F1 : 0.345213
+time cost : 44.929811
+epoch start
+epoch : 695  loss : 0.000058  valid_F1 : 0.345213
+time cost : 45.008236
+epoch start
+epoch : 696  loss : 0.000058  valid_F1 : 0.345213
+time cost : 45.067642
+epoch start
+epoch : 697  loss : 0.000058  valid_F1 : 0.345213
+time cost : 44.812309
+epoch start
+epoch : 698  loss : 0.000058  valid_F1 : 0.345213
+time cost : 45.076984
+epoch start
+epoch : 699  loss : 0.000058  valid_F1 : 0.345213
+time cost : 45.170195
+fit ends

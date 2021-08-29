@@ -1,0 +1,62 @@
+epoch start
+epoch : 0  loss : 0.001985  valid_F1 : 0.608924
+time cost : 211.539346
+epoch start
+epoch : 1  loss : 0.001606  valid_F1 : 0.689886
+time cost : 211.100252
+epoch start
+epoch : 2  loss : 0.001530  valid_F1 : 0.694892
+time cost : 210.535146
+epoch start
+epoch : 3  loss : 0.001606  valid_F1 : 0.706762
+time cost : 211.889237
+epoch start
+epoch : 4  loss : 0.001803  valid_F1 : 0.693079
+time cost : 211.099720
+epoch start
+epoch : 5  loss : 0.002085  valid_F1 : 0.694962
+time cost : 210.761226
+epoch start
+epoch : 6  loss : 0.002314  valid_F1 : 0.674883
+time cost : 210.936376
+epoch start
+epoch : 7  loss : 0.002834  valid_F1 : 0.676491
+time cost : 210.286748
+epoch start
+epoch : 8  loss : 0.003082  valid_F1 : 0.697683
+time cost : 210.043179
+epoch start
+epoch : 9  loss : 0.003339  valid_F1 : 0.699009
+time cost : 211.059389
+epoch start
+epoch : 10  loss : 0.003587  valid_F1 : 0.689554
+time cost : 210.235051
+epoch start
+epoch : 11  loss : 0.004207  valid_F1 : 0.696453
+time cost : 210.060170
+epoch start
+epoch : 12  loss : 0.004292  valid_F1 : 0.691558
+time cost : 210.401779
+epoch start
+epoch : 13  loss : 0.004251  valid_F1 : 0.687852
+time cost : 211.668909
+epoch start
+epoch : 14  loss : 0.004820  valid_F1 : 0.702994
+time cost : 210.532304
+epoch start
+epoch : 15  loss : 0.005283  valid_F1 : 0.702914
+time cost : 211.918078
+epoch start
+epoch : 16  loss : 0.004979  valid_F1 : 0.698353
+time cost : 214.092214
+epoch start
+epoch : 17  loss : 0.005470  valid_F1 : 0.693518
+time cost : 211.416631
+epoch start
+epoch : 18  loss : 0.005447  valid_F1 : 0.694269
+time cost : 210.907717
+epoch start
+epoch : 19  loss : 0.005802  valid_F1 : 0.696699
+time cost : 210.228997
+fit ends
+0.7293127629733521

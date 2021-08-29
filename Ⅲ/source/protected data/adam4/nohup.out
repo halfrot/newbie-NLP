@@ -1,0 +1,32 @@
+epoch start
+epoch : 0  loss : 0.003067  valid_F1 : 0.641574
+time cost : 591.591033
+epoch start
+epoch : 1  loss : 0.002664  valid_F1 : 0.695324
+time cost : 594.997048
+epoch start
+epoch : 2  loss : 0.002708  valid_F1 : 0.706046
+time cost : 592.134398
+epoch start
+epoch : 3  loss : 0.002764  valid_F1 : 0.679724
+time cost : 589.777435
+epoch start
+epoch : 4  loss : 0.003085  valid_F1 : 0.689341
+time cost : 497.623136
+epoch start
+epoch : 5  loss : 0.003608  valid_F1 : 0.693434
+time cost : 322.596415
+epoch start
+epoch : 6  loss : 0.003889  valid_F1 : 0.684386
+time cost : 322.583974
+epoch start
+epoch : 7  loss : 0.004266  valid_F1 : 0.685557
+time cost : 322.239995
+epoch start
+epoch : 8  loss : 0.004699  valid_F1 : 0.693122
+time cost : 323.273909
+epoch start
+epoch : 9  loss : 0.004668  valid_F1 : 0.674084
+time cost : 322.598545
+fit ends
+0.7025803531009507

@@ -151,28 +151,28 @@ def fit(epochs, model, loss_func, train_dl, valid_dl, opt, exp_lr, f1file, lossf
 
 def cal_F1_measure(model, valid_dl):
     predict = []
-    lable = []
+    label = []
     for x, y in valid_dl:
         # print(model(x).view(-1, 3))
         predict.extend(model(x).view(-1, 3).argmax(dim=1))
-        lable.extend(y.view(-1))
-    # print(lable)
+        label.extend(y.view(-1))
+    # print(label)
     # print(predict)
     TP = TN = FP = FN = 0
     i = 0
-    while i < len(lable):
-        if lable[i] == 0:
+    while i < len(label):
+        if label[i] == 0:
             if predict[i] == 0:
                 TN += 1
             else:
                 FP += 1
-        elif lable[i] == 1:
+        elif label[i] == 1:
             if predict[i] != 1:
                 FN += 1
             else:
                 flag = True
                 i += 1
-                while lable[i] == 2:
+                while label[i] == 2:
                     if predict[i] != 2:
                         flag = False
                         break

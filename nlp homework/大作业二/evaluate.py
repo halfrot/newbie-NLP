@@ -1,19 +1,50 @@
-def trainPrecision(model, valid_dl):
-    predict = []
-    label = []
-    for x, y in valid_dl:
-        # print(model(x).view(-1, 2))
-        predict.extend(model(x).view(-1, 2).argmax(dim=1))
-        label.extend(y.view(-1))
-    # print(label)
-    # print(predict)
-    total = len(label)
-    correct = 0
-    for i in range(0, total):
-        if predict[i] == label[i]:
-            correct += 1
-    return correct / total
+import torch
 
+from constant import *
+
+
+def calPrecision(model, embed, dict_list, word_to_idx):
+    fileValid = open(VALID_SET_FILE, "r", encoding="UTF-8")
+    predict = []
+    x = []
+    y = []
+    cnt = 0
+    total = 0
+    correct = 0
+    for s in fileValid:
+        s = s.split()
+        if s[0] == '$':
+            total += 1
+            for i in range(0, cnt):
+                predict.append(model(x[i].unsqueeze(0)).view(-1, 2)[0][1])
+            max_idx = 0
+            for i in range(0, cnt):
+                if predict[i] > predict[max_idx]:
+                    max_idx = i
+            if y[max_idx] == 1:
+                correct += 1
+            predict.clear()
+            x.clear()
+            y.clear()
+            cnt = 0
+        else:
+            y.append(int(s[0]))
+            s = s[1:]
+            u = list()
+            for word in s:
+                if word in word_to_idx:
+                    u.append(word_to_idx[word])
+                else:
+                    u.append(word_to_idx["-unknown-"])
+            x.append(embed(torch.tensor(u)))
+            cnt += 1
+    fileValid.close()
+    return correct / total
+    # print(model(x).view(-1, 2))
+
+
+# print(label)
+# print(predict)
 
 """
 function trainPrecision

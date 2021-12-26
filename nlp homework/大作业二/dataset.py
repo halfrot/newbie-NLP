@@ -34,7 +34,7 @@ class MyDataSet(TensorDataset):
         for s in f:
             raw = s.split()
             self.label.append(int(raw[0]))
-            raw = raw[:1]
+            raw = raw[1:]
             u = list()
             for word in raw:
                 if word in self.word_to_idx:
@@ -42,6 +42,7 @@ class MyDataSet(TensorDataset):
                 else:
                     u.append(self.word_to_idx["-unknown-"])
             self.sentence.append(u)
+            # print(u)
             self.len += 1
         f.close()
 
@@ -59,8 +60,8 @@ class MyDataSet(TensorDataset):
     """
 
     def __getitem__(self, item):
-        x = torch.LongTensor(self.sentence[item])
-        y = torch.LongTensor(self.label[item])
+        x = torch.tensor(self.sentence[item])
+        y = torch.tensor(self.label[item])
         # print(x.shape)
         # print(y.shape)
         return self.embed(x), y

@@ -1,7 +1,7 @@
 import torch
 import time
 from constant import *
-from evaluate import trainPrecision
+from evaluate import calPrecision
 
 """
 function loss_batch
@@ -16,9 +16,8 @@ opt为模型optimizer
 
 
 def loss_batch(model, loss_func, x, y, opt=None):
-    # print(model(x).view(-1, 3))
     # print(y.size())
-    loss = loss_func(model(x).view(-1, 3), y.view(-1).to(int))
+    loss = loss_func(model(x).view(-1, 2), y.view(-1).to(int))
     if opt is not None:
         loss.backward()
         opt.step()
@@ -41,33 +40,25 @@ f1file、loss_file为保存f1、loss的文件
 """
 
 
-def fit(epochs, model, loss_func, train_dl, valid_dl, opt, exp_lr, precision_file, loss_file):
+def fit(epochs, model, loss_func, train_dl, opt, exp_lr, precision_file, embed, dict_list, word_to_idx):
     for epoch in range(epochs):
         print("epoch start")
         time_start = time.time()
         model.train()
         for x, y in train_dl:
+            x = x.to(DEVICE)
+            y = y.to(DEVICE)
+            # print(x, y)
             # print(x.shape)
             # print(y.shape)
             loss_batch(model, loss_func, x, y, opt)
         model.eval()
         file_precision = open(precision_file, "a+", encoding="UTF-8")
-        file_loss = open(loss_file, "a+", encoding="UTF-8")
-        sum_loss = 0
-        sum_num = 0
         with torch.no_grad():
-            for x, y in valid_dl:
-                val_loss, loss_num = loss_batch(model, loss_func, x, y)
-                sum_loss += val_loss
-                sum_num += loss_num
-            precision = trainPrecision(model, valid_dl)
+            precision = calPrecision(model, embed, dict_list, word_to_idx)
             file_precision.write(str(precision) + '\n')
-            loss = sum_loss / sum_num
-            file_loss.write(str(loss) + '\n')
         file_precision.close()
-        file_loss.close()
-        print("epoch : %d  loss : %f  precision : %f" % (epoch, loss, precision))
-        # print("epoch : %d  loss : %f" % (epoch, loss))
+        print("epoch : %d   precision : %f" % (epoch, precision))
         torch.save(obj=model.state_dict(), f=STATE_FILE)
         exp_lr.step()
         time_end = time.time()

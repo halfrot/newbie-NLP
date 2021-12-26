@@ -9,7 +9,7 @@ class MyDataSet
 继承自torch.utils.data.dataset.TensorDataset
 自定义数据集
 
-sentence，label存放词和标准标签
+sentence，label存放句子和标签
 len表示句子总数
 dict_list，word_to_idx为预训练的embedding表示
 embed为nn.Embedding类型

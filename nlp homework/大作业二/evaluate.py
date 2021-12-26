@@ -1,6 +1,13 @@
-import torch
-
 from constant import *
+
+"""
+function trainPrecision
+用于评估模型训练过程中的准确率
+model为输入模型
+valid_dl为验证数据集
+
+返回准确率
+"""
 
 
 def calPrecision(model, embed, dict_list, word_to_idx):
@@ -40,17 +47,3 @@ def calPrecision(model, embed, dict_list, word_to_idx):
             cnt += 1
     fileValid.close()
     return correct / total
-    # print(model(x).view(-1, 2))
-
-
-# print(label)
-# print(predict)
-
-"""
-function trainPrecision
-用于评估模型训练过程中的准确率
-model为输入模型
-valid_dl为验证数据集
-
-返回准确率
-"""
